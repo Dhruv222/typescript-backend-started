@@ -9,7 +9,7 @@
     "build:live": "nodemon --exec ./node_modules/.bin/ts-node -- ./index.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dhruv Sharma",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^8.0.34",
